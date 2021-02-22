@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Bienvenido a la pagina de dario
 
-You can use the [editor on GitHub](https://github.com/RINZLER009/paginaweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Procedere a poner el lore de algunos personajes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Yone
 
-### Markdown
+En vida era Yone, medio hermano de Yasuo y estudiante destacado de la escuela de espadachines de su aldea. Tras morir a manos de su hermano, fue acechado por una entidad malévola del reino espiritual y forzado a asesinarla con su propia espada. Ahora, condenado a portar una máscara demoníaca sobre el rostro, Yone caza sin descanso a todas esas criaturas para comprender en qué se ha convertido. [yone](https://universe.leagueoflegends.com/es_MX/champion/yone/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Zed
 
-```markdown
-Syntax highlighted code block
+Implacable y despiadado, Zed es el líder de la Orden de la Sombra, una organización que él creó con la intención de militarizar las tradiciones de artes marciales y mágicas de Jonia para repeler a los invasores noxianos. Durante la guerra, la desesperación lo llevó a revelar la forma secreta de las sombras, una malévola magia espiritual tan poderosa como corrupta y peligrosa. Zed dominó todas esas técnicas prohibidas para destruir a cualquier amenaza para su nación o su nueva orden. [zed](https://universe.leagueoflegends.com/es_MX/champion/zed/)
 
-# Header 1
-## Header 2
-### Header 3
+#Kayn
 
-- Bulleted
-- List
+Shieda Kayn, un practicante sin igual de la letal magia sombría, lucha para alcanzar su verdadero destino: conducir la Orden de la Sombra hacia una nueva era de supremacía jonia. Esgrime el arma darkin viviente Rhaast, inmutable ante la progresiva corrupción de su cuerpo y su mente. Solo hay dos resultados posibles: o Kayn somete el arma a su voluntad... o la guadaña malévola lo consume por completo, dando lugar a la destrucción de Runaterra. [kayn](https://universe.leagueoflegends.com/es_MX/champion/kayn/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RINZLER009/paginaweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
